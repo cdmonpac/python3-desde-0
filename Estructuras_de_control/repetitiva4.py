@@ -7,6 +7,6 @@ while True:
     if clave != secreto:
         print ("La contraseña es incorrecta")
     if clave == secreto:
-        break;
+        break
 print("Bienvenido!!!")
 print("Programa terminado")

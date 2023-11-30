@@ -7,7 +7,7 @@ while clave != secreto:
     print ("La contraseña es incorrecta")
     otra = input("¿Quiéres introducir otra clave (s/n)?: ")
     if otra == "n":
-        break;
+        break
     clave = input("Dime la clave: ")
 if clave == secreto:
     print("Bienvenido!!!")
