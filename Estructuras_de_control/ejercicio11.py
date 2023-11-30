@@ -16,5 +16,3 @@ if es_primo:
 	print("Es Primo")
 else:
 	print("No es Primo")
-
-
