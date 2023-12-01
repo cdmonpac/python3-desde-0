@@ -42,4 +42,4 @@ Las contribuciones a este repositorio son bienvenidas. Si encuentras un error o 
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Este proyecto está bajo la [Licencia Pública General de GNU (GNU GPL)](https://www.gnu.org/licenses/gpl-3.0.html). ¡Siéntete libre de usar, modificar y distribuir el contenido!
