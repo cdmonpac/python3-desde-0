@@ -19,4 +19,3 @@ if subcad in cad:
 	print("La cadena contiene la subcadena.")
 else:
 	print("La cadena no contiene la subcadena.")
-

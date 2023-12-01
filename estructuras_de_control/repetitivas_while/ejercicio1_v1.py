@@ -13,4 +13,3 @@ while contador <= num:
 	resultado = resultado * contador;
 	contador += 1
 print("El resultado es", resultado)
-
