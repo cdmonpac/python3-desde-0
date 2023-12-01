@@ -14,7 +14,7 @@ Python es uno de los lenguajes de programación más populares y versátiles, y 
 
 Sin embargo, recomendaría encarecidamente que accedan a la [documentación oficial de Python](https://docs.python.org/es/3/contents.html) e indagen por su cuenta sobre los temas que he tratado en este proyecto o sobre cual les cause más interés personal.
 
-## ¿Cómo pueden comenzar con el proyecto?
+## ¿Cómo puedes comenzar con el proyecto?
 
 Para sumarte a este viaje de aprendizaje, puedes clonar este repositorio a tu máquina local usando `git clone https://github.com/cdmonpac/python3-desde-0.git`. Luego, puedes navegar a través de las carpetas y abrir los archivos .py en tu editor de código preferido para ver el código y los comentarios.
 
