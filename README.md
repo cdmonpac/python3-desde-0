@@ -2,7 +2,7 @@
 
 Este repositorio contiene materiales y recursos para aprender Python3 desde cero.
 
-!Python Logo
+![Python Logo](https://github.com/cdmonpac/python3-desde-0/assets/127354610/abad8759-f3f5-4c2b-8685-28792432cd73)
 
 ## Contenido
 
