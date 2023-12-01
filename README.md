@@ -26,4 +26,4 @@ Este proyecto es mantenido y contribuido por mí, @cdmonpac. Si tienes alguna su
 
 ## Licencia
 
-Este proyecto está bajo la **Licencia Pública General de GNU (GNU GPL)** ¡Siéntete libre de usar, modificar y distribuir el contenido!. ¡Recuerda que puedes echarle un vistazo a al archivo "LICENSE"!
+Este proyecto está bajo la [Licencia Pública General de GNU (GNU GPL)](LICENSE) ¡Siéntete libre de usar, modificar y distribuir el contenido!.
