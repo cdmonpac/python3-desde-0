@@ -12,7 +12,7 @@ Este repositorio es mi viaje personal para aprender Python3 desde cero. Aquí en
 
 Python es uno de los lenguajes de programación más populares y versátiles, y aprenderlo puede abrirte muchas puertas en el mundo de la programación. Este proyecto es útil tanto para los principiantes que están empezando desde cero como para aquellos que ya tienen algo de experiencia en programación y quieren aprender Python. Los ejercicios prácticos te permiten aplicar lo que has aprendido y reforzar tus habilidades.
 
-Sin embargo, recomendaría encarecidamente que accedan a la [documentación oficial de Python](https://docs.python.org/es/3/contents.html) e indagen por su cuenta sobre los temas que he tratado en este proyecto o sobre cual les cause más interes personal.
+Sin embargo, recomendaría encarecidamente que accedan a la [documentación oficial de Python](https://docs.python.org/es/3/contents.html) e indagen por su cuenta sobre los temas que he tratado en este proyecto o sobre cual les cause más interés personal.
 
 ## ¿Cómo pueden comenzar con el proyecto?
 
